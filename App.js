@@ -32,7 +32,7 @@ const App = () => {
     headerStyle: {
         backgroundColor: '#f4511e',
       },
-    headerTintColor: '#fff',
+    headerTintColor: '#ffffffff',
     headerTitleStyle: {
       //fontWeight: 'bold',
       fontFamily: 'Anta-Regular',
